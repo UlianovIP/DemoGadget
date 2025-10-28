@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f369df55-6849-43e7-97a3-ac3e0126a5dd">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="24a63a82-bcdd-49cc-bfa3-aed24e9cfa69"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="26053ec4-38d7-44f0-807e-0d2ef621aa9a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="3e41da78-d9f9-4306-833c-86479177a00f"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="5b6b22cb-79f3-4a1e-9107-bb7f4e44605f"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="e906cc3e-28ad-4f47-aa19-be4971b01777"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="f0ecdc69-cc09-4502-aeea-8e755d9469f6"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="e8de7919-6cbc-4c31-a82e-c7d5653c4438"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="d73844f0-2420-42af-acb1-e7a9996ce05a">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.Администратор</roles>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <catalogs>Catalog.Пользователи</catalogs>
+</mdclass:Configuration>
