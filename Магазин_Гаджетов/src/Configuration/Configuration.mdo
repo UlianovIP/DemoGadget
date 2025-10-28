@@ -34,6 +34,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
   <roles>Role.Администратор</roles>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
