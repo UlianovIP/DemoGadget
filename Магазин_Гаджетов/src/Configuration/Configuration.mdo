@@ -39,4 +39,6 @@
   <roles>Role.Администратор</roles>
   <commonModules>CommonModule.ЕжедневнаяЗагрузка</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <enums>Enum.ТипыНоменклатуры</enums>
 </mdclass:Configuration>
