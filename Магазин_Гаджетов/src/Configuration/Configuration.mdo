@@ -11,7 +11,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.1</version>
+  <version>1.0.0.3</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
