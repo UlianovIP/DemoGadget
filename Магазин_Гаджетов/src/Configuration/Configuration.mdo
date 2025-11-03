@@ -37,6 +37,6 @@
   </languages>
   <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
   <roles>Role.Администратор</roles>
-  <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <commonModules>CommonModule.ЕжедневнаяЗагрузка</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
 </mdclass:Configuration>
