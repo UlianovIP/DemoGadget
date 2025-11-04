@@ -38,6 +38,7 @@
   <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
   <roles>Role.Администратор</roles>
   <commonModules>CommonModule.ЕжедневнаяЗагрузка</commonModules>
+  <commonModules>CommonModule.СверкаЕжедневная</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <enums>Enum.ТипыНоменклатуры</enums>
