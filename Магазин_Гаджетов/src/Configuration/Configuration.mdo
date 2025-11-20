@@ -41,5 +41,7 @@
   <commonModules>CommonModule.СверкаЕжедневная</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
   <enums>Enum.ТипыНоменклатуры</enums>
 </mdclass:Configuration>
